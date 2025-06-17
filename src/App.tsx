@@ -11,7 +11,7 @@ import AgentProfile from './pages/AgentProfile';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/ai_agents">
       <Layout>
         <Routes>
           <Route path="/" element={<HomePage />} />
