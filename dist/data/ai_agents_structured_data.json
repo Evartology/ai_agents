@@ -1,0 +1,443 @@
+{
+  "research_metadata": {
+    "report_date": "2025-06-17",
+    "platforms_analyzed": 5,
+    "sources_verified": 106,
+    "research_period": "May-June 2025",
+    "last_updated": "2025-06-17T18:26:54Z"
+  },
+  "platforms": {
+    "manus": {
+      "name": "Manus AI",
+      "tagline": "General AI agent that turns your thoughts into actions",
+      "website": "https://manus.im/",
+      "founded": "2024",
+      "headquarters": "Beijing, China",
+      "company_stage": "Growth",
+      "recent_updates": {
+        "latest": "Team subscription plan launch (May 2025)",
+        "mobile_app": "iOS and Android apps launched (March 2025)"
+      },
+      "core_features": [
+        "Autonomous Task Execution",
+        "Multi-Modal Support",
+        "Real-Time Execution",
+        "Mobile Applications",
+        "Enterprise Team Features"
+      ],
+      "pricing": {
+        "free_tier": {
+          "name": "Free",
+          "price": "$0",
+          "credits": "1,000 + 300 daily credits",
+          "features": ["Basic AI access", "Limited tasks"]
+        },
+        "starter": {
+          "name": "Starter",
+          "price": "$39/month",
+          "credits": "3,900 monthly credits",
+          "concurrent_tasks": 2,
+          "features": ["Individual use", "Basic automation"]
+        },
+        "pro": {
+          "name": "Pro", 
+          "price": "$199/month",
+          "credits": "19,900 monthly credits",
+          "concurrent_tasks": 5,
+          "features": ["Advanced automation", "Priority support"]
+        },
+        "team": {
+          "name": "Team",
+          "price": "$39/seat/month",
+          "minimum_seats": 5,
+          "total_minimum": "$195/month",
+          "credits": "19,500 monthly credits",
+          "features": ["Team collaboration", "Shared workflows"]
+        }
+      },
+      "technical_specs": {
+        "runtime_uptime": "98%",
+        "cloud_execution": "24/7",
+        "supported_formats": ["Text", "Images", "Files"],
+        "api_access": "Limited"
+      },
+      "performance_metrics": {
+        "benchmark_performance": "Superior vs competitors",
+        "task_completion_improvement": "40% faster than traditional chatbots",
+        "reliability_score": "High"
+      },
+      "strengths": [
+        "Robust automation capabilities",
+        "Proven reliability and performance",
+        "Enterprise team features",
+        "Mobile app availability"
+      ],
+      "weaknesses": [
+        "Higher pricing for individual users",
+        "Limited free tier",
+        "Primarily automation-focused"
+      ],
+      "target_audience": [
+        "Enterprise teams",
+        "Power users",
+        "Automation-heavy workflows"
+      ],
+      "market_position": "Premium automation leader"
+    },
+    "genspark": {
+      "name": "Genspark AI",
+      "tagline": "The Ultimate All-in-One AI Companion",
+      "website": "https://www.genspark.ai/",
+      "founded": "2024",
+      "headquarters": "United States",
+      "company_stage": "Growth",
+      "recent_updates": {
+        "latest": "AI Slides and AI Sheets launched (2025)",
+        "super_agent": "Enhanced Super Agent capabilities"
+      },
+      "core_features": [
+        "Super Agent (All-in-One AI)",
+        "AI Slides & Sheets",
+        "AI Call Feature",
+        "Multi-Media Generation",
+        "Integrated Browser"
+      ],
+      "pricing": {
+        "free_tier": {
+          "name": "Free",
+          "price": "$0",
+          "credits": "200 daily credits",
+          "features": ["Unlimited searches", "Limited agent access"]
+        },
+        "plus": {
+          "name": "Plus",
+          "price": "$24.99/month",
+          "credits": "Expanded access",
+          "features": ["Priority agent access", "Advanced tools"]
+        },
+        "pro": {
+          "name": "Pro",
+          "price": "$249.99/month", 
+          "credits": "Maximum access",
+          "features": ["All features", "Priority support"]
+        }
+      },
+      "technical_specs": {
+        "ai_model": "DeepSeek R1",
+        "supported_formats": ["Text", "Images", "Video", "Audio"],
+        "api_access": "Available",
+        "integrations": ["Browser", "Drive", "Slides", "Sheets"]
+      },
+      "performance_metrics": {
+        "output_variants": "40% more per prompt vs Manus",
+        "tool_switching": "Instant without context loss",
+        "free_tier_generosity": "Most generous in market"
+      },
+      "strengths": [
+        "Most generous free tier",
+        "Comprehensive multimedia capabilities",
+        "Accessible pricing",
+        "Integrated tool suite"
+      ],
+      "weaknesses": [
+        "Newer platform with limited track record",
+        "Limited enterprise features",
+        "Less automation depth than Manus"
+      ],
+      "target_audience": [
+        "Creative professionals",
+        "Content creators", 
+        "Budget-conscious users",
+        "Multi-media workers"
+      ],
+      "market_position": "Accessible all-in-one solution"
+    },
+    "flowith": {
+      "name": "Flowith.io",
+      "tagline": "Your AI Creation Workspace, with Knowledge",
+      "website": "https://flowith.io/",
+      "founded": "2024",
+      "headquarters": "International",
+      "company_stage": "Growth",
+      "recent_updates": {
+        "latest": "Agent NEO released (May 19, 2025)",
+        "version": "Flowith 2.0 launched",
+        "flash_sale": "Up to 50% off yearly plans"
+      },
+      "core_features": [
+        "Agent NEO (Infinite AI Agent)",
+        "Knowledge Base Management",
+        "24/7 Cloud Execution",
+        "Multi-Thread Interface",
+        "Oracle Reasoning System"
+      ],
+      "pricing": {
+        "starter": {
+          "name": "Starter",
+          "price": "$0",
+          "credits": "1,000 one-time credits",
+          "features": ["Basic AI models", "Agent NEO access", "Community support"]
+        },
+        "professional": {
+          "name": "Professional",
+          "price": "$13.93/month",
+          "credits": "20,000 monthly credits",
+          "discount": "30% off with yearly billing",
+          "features": ["Advanced AI models", "10M token storage", "Team collaboration"]
+        },
+        "ultimate": {
+          "name": "Ultimate", 
+          "price": "$29.49/month",
+          "credits": "50,000 monthly credits",
+          "discount": "40% off with yearly billing",
+          "features": ["Ultra AI models (70 uses/day)", "100M token storage", "Priority support"]
+        },
+        "infinite": {
+          "name": "Infinite",
+          "price": "$249.95/month",
+          "credits": "500,000 monthly credits", 
+          "discount": "50% off with yearly billing",
+          "features": ["Ultra AI models (200 uses/day)", "Custom workflows", "Dedicated support"]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "price": "Custom",
+          "credits": "Unlimited",
+          "features": ["Custom everything", "VIP support", "Advanced security"]
+        }
+      },
+      "technical_specs": {
+        "storage_capacity": "10M-100M tokens",
+        "upload_limit": "400K tokens per upload",
+        "runtime_uptime": "98%",
+        "supported_formats": ["Text", "Documents", "Knowledge bases"]
+      },
+      "performance_metrics": {
+        "benchmark_scores": "Match or exceed Manus performance",
+        "knowledge_processing": "Advanced token management",
+        "infinite_context": "Unlimited steps and contexts"
+      },
+      "strengths": [
+        "Most affordable entry point",
+        "Advanced knowledge management",
+        "Infinite agent capabilities",
+        "Competitive flash sale pricing"
+      ],
+      "weaknesses": [
+        "Newer platform with limited market presence",
+        "Less brand recognition",
+        "Primarily knowledge-focused"
+      ],
+      "target_audience": [
+        "Researchers",
+        "Knowledge workers",
+        "Creative professionals",
+        "Cost-conscious users"
+      ],
+      "market_position": "Knowledge management specialist"
+    },
+    "minimax": {
+      "name": "MiniMax Agent", 
+      "tagline": "Intelligence with everyone",
+      "website": "https://agent.minimax.io/",
+      "founded": "2021",
+      "headquarters": "China",
+      "company_stage": "Mature",
+      "recent_updates": {
+        "latest": "MiniMax-M1 open-source model released (June 16, 2025)",
+        "partnerships": "AWS MCP Agents Hackathon, Monks partnership",
+        "scale": "1+ trillion tokens daily, 100,000+ developers"
+      },
+      "core_features": [
+        "MiniMax-M1 (Open-source reasoning model)",
+        "Multi-Modal AI (Text, Vision, Audio, Video)",
+        "MCP Server (Model Control Protocol)",
+        "Enterprise AI Applications Suite",
+        "Lightning Attention Mechanism"
+      ],
+      "pricing": {
+        "text_models": {
+          "minimax_m1": {
+            "input_tokens_small": "$0.4/1M tokens (≤200K)",
+            "input_tokens_large": "$1.3/1M tokens (>200K)", 
+            "output_tokens": "$2.2/1M tokens"
+          },
+          "minimax_text_01": {
+            "input_tokens": "$0.2/1M tokens",
+            "output_tokens": "$1.1/1M tokens"
+          }
+        },
+        "audio_models": {
+          "subscriptions": {
+            "starter": "$5 (100K credits)",
+            "standard": "$30 (300K credits)",
+            "pro": "$99 (1M credits)",
+            "business": "$999 (20M credits)"
+          },
+          "per_usage": "$60-100/1M characters"
+        },
+        "video_models": {
+          "per_usage": "$0.43-0.65/6s generation",
+          "subscriptions": {
+            "standard": "$1,000 (5% savings)",
+            "business": "$6,000 (20% savings)"
+          }
+        }
+      },
+      "technical_specs": {
+        "context_window": "1M tokens",
+        "cot_length": "80K tokens",
+        "gpu_infrastructure": "10,000+ GPUs",
+        "api_calls": "1+ billion per day",
+        "attention_mechanism": "Lightning Attention",
+        "reinforcement_learning": "CISPO algorithm"
+      },
+      "performance_metrics": {
+        "training_cost": "$537,400 for 3 weeks on 512 H800s",
+        "convergence_speed": "2x faster with CISPO",
+        "open_source_ranking": "Top-tier performance",
+        "processing_scale": "Trillion parameters"
+      },
+      "strengths": [
+        "Superior technical capabilities",
+        "Open-source availability",
+        "Comprehensive platform",
+        "Massive scale and infrastructure",
+        "Developer-friendly APIs"
+      ],
+      "weaknesses": [
+        "Complex pricing structure",
+        "Developer-focused (technical barrier)",
+        "Less accessible for non-technical users"
+      ],
+      "target_audience": [
+        "Developers",
+        "Enterprise clients",
+        "Technical users",
+        "AI researchers"
+      ],
+      "market_position": "Technical leader and open-source pioneer"
+    },
+    "convergence": {
+      "name": "Convergence.ai",
+      "tagline": "AI Agent Design & Autonomous Task Execution",
+      "website": "https://convergence.ai/",
+      "founded": "April 2024",
+      "headquarters": "United Kingdom",
+      "company_stage": "Acquired",
+      "recent_updates": {
+        "latest": "Acquired by Salesforce (Completed June 11, 2025)",
+        "integration": "Now part of Salesforce Agentforce platform",
+        "announcement": "Definitive agreement signed May 15, 2025"
+      },
+      "core_features": [
+        "AI Agent Design Expertise",
+        "Autonomous Task Execution",
+        "Dynamic Interface Handling",
+        "Multi-Step Process Automation",
+        "Adaptive Learning Systems"
+      ],
+      "pricing": {
+        "current_status": "Integrated into Salesforce Agentforce",
+        "agentforce_pricing": "~$0.10 per action",
+        "previous_standalone": "Not publicly available",
+        "enterprise_focus": "Salesforce ecosystem pricing"
+      },
+      "technical_specs": {
+        "specialization": "Enterprise workflow automation",
+        "interface_handling": "Dynamic web-based workflows",
+        "integration": "Salesforce CRM native",
+        "ai_capabilities": "Proactive suggestions, intent detection"
+      },
+      "performance_metrics": {
+        "acquisition_timeline": "13 months from founding to acquisition",
+        "crm_integration": "Proactive suggestions based on customer history",
+        "workflow_automation": "Complex multi-step business processes"
+      },
+      "strengths": [
+        "Salesforce backing and integration",
+        "Enterprise-focused capabilities",
+        "Proven technology (rapid acquisition)",
+        "CRM-native functionality"
+      ],
+      "weaknesses": [
+        "No longer standalone platform",
+        "Limited to Salesforce ecosystem",
+        "Reduced market accessibility"
+      ],
+      "target_audience": [
+        "Salesforce customers",
+        "Enterprise CRM users",
+        "Large organizations using Agentforce"
+      ],
+      "market_position": "Enterprise CRM integration specialist"
+    }
+  },
+  "market_analysis": {
+    "pricing_trends": {
+      "most_affordable": "Flowith.io ($13.93/month)",
+      "best_free_tier": "Genspark (200 daily credits)",
+      "most_expensive": "MiniMax (Variable API pricing)",
+      "enterprise_leader": "Convergence.ai (Salesforce pricing)"
+    },
+    "feature_leaders": {
+      "technical_capabilities": "MiniMax",
+      "automation": "Manus",
+      "knowledge_management": "Flowith",
+      "multimedia": "Genspark",
+      "enterprise_integration": "Convergence"
+    },
+    "market_segments": {
+      "individual_users": ["Genspark", "Flowith", "Manus"],
+      "developers": ["MiniMax", "Manus"],
+      "enterprises": ["Convergence", "Manus", "MiniMax"],
+      "creatives": ["Genspark", "Flowith"]
+    },
+    "geographic_distribution": {
+      "chinese_platforms": ["Manus", "MiniMax"],
+      "western_platforms": ["Genspark", "Convergence"],
+      "international": ["Flowith"]
+    },
+    "key_trends": [
+      "Aggressive pricing competition from Chinese platforms",
+      "Open-source movement led by MiniMax",
+      "Enterprise consolidation through acquisitions",
+      "Credit-based pricing models dominating",
+      "Multi-modal AI becoming standard"
+    ]
+  },
+  "recommendations": {
+    "by_use_case": {
+      "budget_conscious": {
+        "primary": "Genspark",
+        "alternative": "Flowith",
+        "reason": "Best free tier and affordable paid plans"
+      },
+      "knowledge_work": {
+        "primary": "Flowith",
+        "alternative": "MiniMax",
+        "reason": "Advanced knowledge base and token management"
+      },
+      "automation": {
+        "primary": "Manus",
+        "alternative": "MiniMax",
+        "reason": "Robust automation capabilities and reliability"
+      },
+      "development": {
+        "primary": "MiniMax",
+        "alternative": "Manus",
+        "reason": "Comprehensive APIs and technical capabilities"
+      },
+      "enterprise": {
+        "primary": "Convergence (Salesforce)",
+        "alternative": "Manus Team",
+        "reason": "Enterprise integration and collaboration features"
+      }
+    },
+    "market_outlook": {
+      "short_term": "Continued pricing competition and feature enhancement",
+      "medium_term": "Market consolidation and enterprise focus",
+      "long_term": "Open-source vs proprietary bifurcation"
+    }
+  }
+}
